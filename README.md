@@ -23,7 +23,7 @@
 | **Key finding** | Only 4 rules pass the thresholds, and **all 4 have lift below 1 (0.76–0.82)**. "Rolls/buns → whole milk" looks like a rule only because whole milk is in 15.8% of all baskets |
 | **Takeaway** | Confidence alone is misleading for very popular items; lift (or conviction) has to gate any bundling decision |
 
-> University coursework (ITS61504 Data Mining, Taylor's University, Nov 2025; module grade A-), individual assignment. I'm a third-year CS student and still learning; feedback is welcome.
+
 
 ## Method
 
