@@ -1,0 +1,6 @@
+pandas>=2.2
+numpy
+mlxtend>=0.23
+matplotlib
+seaborn
+networkx
